@@ -48,7 +48,7 @@ It includes frameworks, databases, deployment techniques, and complete project b
 - Fundamentals of software engineering and clean code principles  
 
 ## 🏆 Certificate
-![Full Stack Certificate](certificates/"Udemy_Full_Stack Web_Development.jpg")
+![Full Stack Certificate](certificates/Udemy_Full_Stack Web_Development.jpg)
 
 ---
 
