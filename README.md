@@ -30,8 +30,6 @@ It covers real-world workflows like RAG pipelines, embeddings, prompt engineerin
 
 ---
 
----
-
 # 🌐 2. The Complete Full-Stack Web Development Bootcamp (Udemy)
 
 ## 📘 About the Course
@@ -48,7 +46,7 @@ It includes frameworks, databases, deployment techniques, and complete project b
 - Fundamentals of software engineering and clean code principles  
 
 ## 🏆 Certificate
-![Full Stack Certificate](certificates/Udemy_Full_Stack Web_Development.jpg)
+![Full Stack Certificate](certificates/Udemy_Full_Stack_Web_Development.jpg)
 
 ---
 
