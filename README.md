@@ -1,71 +1,81 @@
+# 📜 Certifications & Learnings Portfolio
 
-# 📜 Certificates & Learnings Portfolio
-
-This repository section highlights the certifications I have completed across **LLMs, GenAI, Web Development, and Data Structures**.  
+This repository section highlights the certifications I have completed across LLM/GenAI, full‑stack web development, and core Data Structures & Algorithms (Java).  
 Each certification includes:
 
-- **About the course**
-- **My learnings**
-- **Embedded certificate image**
+- **About the course**  
+- **My learnings**  
+- **The certificate itself**  
+
+You may store all certificate images inside a folder named:
+```
+/certificates
+```
 
 ---
 
-# 🧠 1. Master LangChain & Gen AI — Build 16 AI Apps (Udemy)
+## 🧠 1. Master LangChain & Gen AI — Build LLM & GenAI Apps (Udemy)
 
-## 📘 About the Course
-A hands-on course focused on building practical Generative AI applications using LangChain, Hugging Face, and modern LLM technologies.  
-It covers real-world workflows like RAG pipelines, embeddings, prompt engineering, model chaining, and agent-based systems.
+**Course Link:** https://www.udemy.com/share/10996g3@mf0kMZAq6asUN08eq9Kgfvi_jtfmPCPiYcyJTWd9hJ1xCZqVmCJxyAu-4ng097kyvQ==/
 
-## 🎯 What I Learned
-- Fundamentals of **LLMs**, tokenization, embeddings, and transformer architecture  
-- Implementing **LangChain pipelines** for prompt templates, memory, and tool integration  
-- Working with **HuggingFace Transformers**, model loading, and inference  
-- Developing **16+ real-world GenAI applications** including chatbots, Q&A systems, summarizers  
-- Using vector databases for **RAG (Retrieval-Augmented Generation)**  
-- Prompt engineering for structured outputs  
-- Building Streamlit-based AI apps  
+### 📘 About the Course
+A hands‑on, application-driven Generative AI course focused on **LangChain**, **LLMs**, **Hugging Face**, **Vector Databases**, and end‑to‑end AI app development.  
+It teaches how to integrate LLMs into real applications, build RAG systems, use embeddings, prompt engineering, document loaders, memory systems, and build complete AI tools with modern frameworks.
 
-## 🏆 Certificate
+### 🎯 What I Learned
+- Concepts of **transformers**, LLM internals, tokenization & embeddings  
+- Building **RAG (Retrieval-Augmented Generation)** systems  
+- Using **LangChain**: chains, agents, memory, prompt templates, tools  
+- Working with **HuggingFace models** for NLP tasks  
+- Creating **production‑style AI apps** (chatbots, document-QA, summarizers)  
+- Using **vector databases** such as Pinecone/FAISS  
+- Deploying AI apps using **Streamlit**  
+- Building over **16 practical LLM projects**
+
+### 🏆 Certificate
 ![LLM Certificate](certificates/LLM.jpg)
 
 ---
 
-# 🌐 2. The Complete Full-Stack Web Development Bootcamp (Udemy)
+## 🌐 2. The Complete Full‑Stack Web Development Bootcamp (Udemy)
 
-## 📘 About the Course
-A full-stack development bootcamp covering everything from frontend to backend development.  
-It includes frameworks, databases, deployment techniques, and complete project building.
+**Course Link:** https://www.udemy.com/share/101qYw3@fiHHBcWiYD0cRXWA4bMgPAScAPyOUv4CvmLRMMThTwDhpcFjHkI1pORjlXCcqgUBFQ==/
 
-## 🎯 What I Learned
-- **HTML, CSS, JavaScript** core principles  
-- Frontend frameworks and responsive UI design  
-- **Node.js, Express, MongoDB** for backend application development  
-- REST APIs, authentication, and session management  
-- Building and deploying full-stack web applications  
-- Version control with Git & GitHub  
-- Fundamentals of software engineering and clean code principles  
+### 📘 About the Course
+A comprehensive full‑stack development program covering everything needed to build and deploy modern web applications.  
+This includes both **frontend** and **backend development**, databases, best practices, and real‑world application architecture.
 
-## 🏆 Certificate
+### 🎯 What I Learned
+- **Frontend development**: HTML, CSS, JavaScript, responsive UI design  
+- **Backend development**: server design, routing, REST APIs, authentication  
+- Working with **databases** (SQL / NoSQL)  
+- Full‑stack concepts: connecting frontend ↔ backend, MVC patterns  
+- Using tools like Node.js, Express, and other backend frameworks  
+- Deployment workflows and Git/GitHub version control  
+- Building complete and scalable web applications
+
+### 🏆 Certificate
 ![Full Stack Certificate](certificates/Udemy_Full_Stack_Web_Development.jpg)
 
 ---
 
----
+## ☕ 3. Data Structures & Algorithms in Java (Great Learning)
 
-# ☕ 3. Data Structures & Algorithms in Java — Intermediate Level (Great Learning)
+**Course Link:**  
+https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-in-java?referrer_code=GLXD3YRYTFXJG
 
-## 📘 About the Course
-A structured introduction and deep dive into time-tested algorithms and core data structures using Java.  
-This helped solidify problem-solving foundations required for placements and technical interviews.
+### 📘 About the Course
+A structured and beginner-to-intermediate level course on **data structures**, **algorithms**, and computational thinking using Java.  
+This course helps strengthen problem‑solving abilities and lays the foundation for technical interviews.
 
-## 🎯 What I Learned
-- Core **data structures**: arrays, linked lists, stacks, queues  
-- **Trees**, **BSTs**, heaps, and priority queues  
-- Sorting & searching algorithms  
-- Complexity analysis (Big-O)  
-- Hashing & hashmaps  
-- Writing optimized and clean Java code  
-- Applying DS concepts in real-world problem-solving  
+### 🎯 What I Learned
+- Implementing core data structures: arrays, linked lists, stacks, queues  
+- Working with trees, BSTs, heaps, and priority queues  
+- Algorithmic fundamentals: sorting, searching, recursion  
+- Big‑O complexity analysis  
+- Hash maps, sets, and hashing  
+- How to write optimized Java code  
+- Applying DSA concepts in real coding problems
 
-## 🏆 Certificate
+### 🏆 Certificate
 ![DSA Certificate](certificates/great_Learning_java_dsa.jpg)
