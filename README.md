@@ -48,7 +48,7 @@ It includes frameworks, databases, deployment techniques, and complete project b
 - Fundamentals of software engineering and clean code principles  
 
 ## 🏆 Certificate
-![Full Stack Certificate](certificates/"Udemy Full Stack Web Development.jpg")
+![Full Stack Certificate](certificates/"Udemy_Full_Stack Web_Development.jpg")
 
 ---
 
@@ -70,4 +70,4 @@ This helped solidify problem-solving foundations required for placements and tec
 - Applying DS concepts in real-world problem-solving  
 
 ## 🏆 Certificate
-![DSA Certificate](certificates/great Learning java dsa.jpg)
+![DSA Certificate](certificates/great_Learning_java_dsa.jpg)
