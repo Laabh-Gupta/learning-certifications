@@ -31,7 +31,7 @@ A hands-on series of 6 courses from Databricks Academy covering the full machine
 
 ### 🏆 Certificates
 
-![Databricks ML Practitioner Series](/certificates/databricks_ml_practitioner_collage.png)
+![Databricks ML Practitioner Series](certificates/databricks_certificates_collage.png)
 
 | Course | Completed |
 |--------|-----------|
