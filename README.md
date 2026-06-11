@@ -14,7 +14,8 @@ You may store all certificate images inside a folder named:
 
 ## 🔶 1. Databricks Academy — Machine Learning Practitioner Series
 
-**Platform:** [Databricks Academy](https://customer-academy.databricks.com)
+**Course Link:**  
+https://partner-academy.databricks.com/learn/learning-plans/11/machine-learning-practitioner-learning-plan
 
 ### 📘 About the Course
 
