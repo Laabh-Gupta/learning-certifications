@@ -12,7 +12,66 @@ You may store all certificate images inside a folder named:
 /certificates
 ```
 
-## 🔶 1. Databricks Academy — Machine Learning Practitioner Series
+## 🚀 1. MLOps Zero to Hero (Udemy)
+
+**Course Link:**  
+https://www.udemy.com/course/mlops-zero-to-hero/
+
+### 📘 About the Course
+
+A practical, production-focused MLOps course covering the complete journey from machine learning development to deployment, serving, monitoring, and infrastructure automation.
+
+### 🎯 What I Learned
+
+- **MLOps Fundamentals**
+  - Understanding the ML lifecycle and the roles of Data Scientists, ML Engineers, and MLOps Engineers
+  - Applying DevOps principles to machine learning workflows
+
+- **Data Versioning**
+  - DVC (Data Version Control)
+  - Versioning datasets and ML artifacts
+  - Integrating DVC with AWS S3
+
+- **Experiment Tracking**
+  - MLflow for experiment tracking and model management
+  - Tracking parameters, metrics, artifacts, and model versions
+  - Comparing multiple ML experiments
+
+- **Model Deployment & Serving**
+  - Deploying ML models through APIs
+  - Production deployment using AWS EC2, VPC, load balancers, Gunicorn, and Nginx
+  - Containerizing ML models using Docker
+
+- **Kubernetes & Model Serving**
+  - Kubernetes fundamentals for ML workloads
+  - Deployments, Services, Namespaces, and Ingress
+  - Serving ML models on Kubernetes
+  - KServe for scalable model inference
+
+- **AWS & Cloud MLOps**
+  - AWS-based model deployment architectures
+  - Amazon SageMaker AI fundamentals
+  - Building production-oriented ML infrastructure
+
+- **Production MLOps**
+  - End-to-end ML pipeline concepts
+  - CI/CD and automation for ML systems
+  - Model monitoring and production workflows
+
+### 🛠️ Technologies & Tools
+
+`Python` · `DVC` · `MLflow` · `Docker` · `Kubernetes` · `KServe` · `AWS` · `SageMaker` · `EC2` · `S3` · `PostgreSQL` · `Git`
+
+### 🏆 Certificate
+
+**Completed:** September 14, 2026  
+**Duration:** 12.5 hours  
+**Instructor:** Abhishek Veeramalla  
+**Certificate:** https://ude.my/UC-9e829c95-e6db-4262-b425-005e973a13ba
+
+---
+
+## 🔶 2. Databricks Academy — Machine Learning Practitioner Series
 
 **Course Link:**  
 https://partner-academy.databricks.com/learn/learning-plans/11/machine-learning-practitioner-learning-plan
@@ -45,7 +104,7 @@ A hands-on series of 6 courses from Databricks Academy covering the full machine
 
 ---
 
-## 🧠 2. Master LangChain & Gen AI — Build LLM & GenAI Apps (Udemy)
+## 🧠 3. Master LangChain & Gen AI — Build LLM & GenAI Apps (Udemy)
 
 
 **Course Link:**  
@@ -100,7 +159,7 @@ Throughout the course, I built **multiple real-world GenAI applications**, apply
 
 ---
 
-## 🌐 3. The Complete Full‑Stack Web Development Bootcamp (Udemy)
+## 🌐 4. The Complete Full‑Stack Web Development Bootcamp (Udemy)
 
 **Course Link:**  
 https://www.udemy.com/share/101qYw3@fiHHBcWiYD0cRXWA4bMgPAScAPyOUv4CvmLRMMThTwDhpcFjHkI1pORjlXCcqgUBFQ==/
@@ -151,7 +210,7 @@ The curriculum is updated to be **2024 ready** and covers the same content taugh
 
 ---
 
-## ☕ 4. Data Structures & Algorithms in Java (Great Learning)
+## ☕ 5. Data Structures & Algorithms in Java (Great Learning)
 
 **Course Link:**  
 https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-in-java?referrer_code=GLXD3YRYTFXJG
