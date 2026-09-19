@@ -69,6 +69,7 @@ A practical, production-focused MLOps course covering the complete journey from 
 **Instructor:** Abhishek Veeramalla  
 **Certificate:** https://ude.my/UC-9e829c95-e6db-4262-b425-005e973a13ba
 
+![MLOps Zero TO Hero](certificates\MLOps.jpg)
 ---
 
 ## 🔶 2. Databricks Academy — Machine Learning Practitioner Series
